@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".\assets\logo.jpg" alt="Logo Blog" width=200>
+  <img src=".\assets\logo.jpg" alt="Logo Blog" width=200 style="border-radius: 5%;">
 </p>
 
 <h1 align="center">Belajar Bareng <a href="https://twitter.com/Rahmattullah_r">Rifki Rahmattullah</a></h1>
